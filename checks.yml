@@ -1,0 +1,8 @@
+checks:
+  - name: Venetian Macao home
+    url: https://www.venetianmacao.com/
+  - name: Londoner Macao home
+    url: https://www.londonermacao.com/
+alerting:
+  slack_token: SYNTHETIC-KI6ZsfIhJVSe37n6jMY1oyXf
+  channel: my-uptime
